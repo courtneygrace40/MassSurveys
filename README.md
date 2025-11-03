@@ -1,6 +1,6 @@
 # Massachusetts Youth Risk Behavior Survey Analysis
 
-Dataset from (https://www.mass.gov/lists/massachusetts-youth-health-survey-myhs)
+Dataset from https://www.mass.gov/lists/massachusetts-youth-health-survey-myhs
 
 According to the Massachusetts Department of Secondary and Elementary Education: 
 
