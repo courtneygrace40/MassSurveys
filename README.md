@@ -27,11 +27,15 @@ I downloaded these sheets as CSV files and imported them into R. From here, I wr
 
 I created graphs for each demographic type (race, sex, and grade). 
 
+### Grade
+
+<img src="graph_bygrade.png" style="width:100%; height:auto;">
+
 ### Sex
 
 Here is a bar graph representing the proportion of students who answered yes to questions in the suicide and hopelessness section of the survey. 
 
-<img src="graphsex.png" style="width:100%; height:auto;">
+<img src="graph_bysex.png" style="width:100%; height:auto;">
 
 
 | Short Version | Full Question |
@@ -50,7 +54,7 @@ Here is a bar graph representing the proportion of students who answered yes to 
 
 ### Race
 
-<img src="graphrace.png" style="width:100%; height:auto;">
+<img src="graph_byallraces.png" style="width:100%; height:auto;">
 
 | Short Version | Full Question |
 | --- | --- |
@@ -62,3 +66,6 @@ Here is a bar graph representing the proportion of students who answered yes to 
 | ATTEMPT | Attempting suicide, past year |
 | ATTEMPT&INJURY | Attempting suicide that resulted in an injury, poisoning or overdose that had to be treated by a doctor or nurse, past year | 
 | HELP | Asking for help from someone before their suicide attempt |
+
+
+<img src="graph_byracebw.png" style="width:100%; height:auto;">
