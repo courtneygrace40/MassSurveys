@@ -27,6 +27,19 @@ I downloaded these sheets as CSV files and imported them into R. From here, I wr
 
 I created graphs for each demographic type (race, sex, and grade). 
 
+Here is the key that contains all of the short versions used on the graph with the full questions from the survey.
+
+| Short Version | Full Question |
+| --- | --- |
+| SAD/HOPE | Feeling sad or hopeless for 2+ weeks that they stopped doing usual activities, past year |
+| SELF-HARM | Injuring oneself intentionally without wanting to die, past year |
+| POOR MH | their mental health was not good always or most of the time during the previous 30 days |
+| CONSIDER | Seriously considering suicide, past year |
+| PLAN | Making a suicide plan, past year | 
+| ATTEMPT | Attempting suicide, past year |
+| ATTEMPT&INJURY | Attempting suicide that resulted in an injury, poisoning or overdose that had to be treated by a doctor or nurse, past year | 
+| HELP | Asking for help from someone before their suicide attempt |
+
 ### Grade
 
 <img src="graph_bygrade.png" style="width:100%; height:auto;">
@@ -38,34 +51,8 @@ Here is a bar graph representing the proportion of students who answered yes to 
 <img src="graph_bysex.png" style="width:100%; height:auto;">
 
 
-| Short Version | Full Question |
-| --- | --- |
-| SAD/HOPE | Feeling sad or hopeless for 2+ weeks that they stopped doing usual activities, past year |
-| SELF-HARM | Injuring oneself intentionally without wanting to die, past year |
-| POOR MH | their mental health was not good always or most of the time during the previous 30 days |
-| CONSIDER | Seriously considering suicide, past year |
-| PLAN | Making a suicide plan, past year | 
-| ATTEMPT | Attempting suicide, past year |
-| ATTEMPT&INJURY | Attempting suicide that resulted in an injury, poisoning or overdose that had to be treated by a doctor or nurse, past year | 
-| HELP | Asking for help from someone before their suicide attempt |
-    
-
-
-
 ### Race
 
 <img src="graph_byallraces.png" style="width:100%; height:auto;">
-
-| Short Version | Full Question |
-| --- | --- |
-| SAD/HOPE | Feeling sad or hopeless for 2+ weeks that they stopped doing usual activities, past year |
-| SELF-HARM | Injuring oneself intentionally without wanting to die, past year |
-| POOR MH | their mental health was not good always or most of the time during the previous 30 days |
-| CONSIDER | Seriously considering suicide, past year |
-| PLAN | Making a suicide plan, past year | 
-| ATTEMPT | Attempting suicide, past year |
-| ATTEMPT&INJURY | Attempting suicide that resulted in an injury, poisoning or overdose that had to be treated by a doctor or nurse, past year | 
-| HELP | Asking for help from someone before their suicide attempt |
-
 
 <img src="graph_byracebw.png" style="width:100%; height:auto;">
