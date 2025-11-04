@@ -35,7 +35,7 @@ Here is a bar graph representing the proportion of students who answered yes to 
 
 
     | Short Version | Full Question|
-    --- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
+    --- | --- 
     | SAD/HOPE | Feeling sad or hopeless for 2+ weeks that they stopped doing usual activities, past year | 
     | SELF-HARM | Injuring oneself intentionally without wanting to die, past year |
     | POOR MH | their mental health was not good always or most of the time during the previous 30 days |
