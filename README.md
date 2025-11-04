@@ -10,7 +10,7 @@ According to the Massachusetts Department of Secondary and Elementary Education:
 
 This data was collected from schools with an in-person survey. For some of the data points, participation in the question did not create a large enough sample size, or the margin of error was too high. In these cases, the database is marked with **. 
 
-### Analysis 
+## Analysis 
 
 I used data from the 2023 survey to complete this analysis, as that was the most recent survey conducted and published. I used data from the document provided with the information and created a Google Sheet. I corrected some of the headers to have no spacing errors and deleted the confidence intervals. Then, I replaced all of the ** with NA to better fit the format of dataframes in R. 
 
@@ -23,6 +23,14 @@ I downloaded these sheets as CSV files and imported them into R. From here, I wr
   - Filtering for race, sex, and grade as demographics
   - Setting demographics as factors
 
-Then, I created graphs for each demographic type (race, sex, and grade). 
+## Visualization
+
+I created graphs for each demographic type (race, sex, and grade). 
+
+### Sex
 
 <img src="graphsex.png" style="width:100%; height:auto;">
+
+### Race
+
+<img src="graphrace.png" style="width:100%; height:auto;">
