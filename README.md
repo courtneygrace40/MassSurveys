@@ -24,3 +24,5 @@ I downloaded these sheets as CSV files and imported them into R. From here, I wr
   - Setting demographics as factors
 
 Then, I created graphs for each demographic type (race, sex, and grade). 
+
+<img src="graphsex.png" style="width:100%; height:auto;">
