@@ -59,5 +59,5 @@ Here is a bar graph representing the proportion of students who answered yes to 
 
 ### Sexuality/Gender Identity
 
-<img src="graph_bysexuality.png" style="width:50%; height:auto;">
+<img src="graph_bysexuality.png" style="width:75%; height:auto;">
 
