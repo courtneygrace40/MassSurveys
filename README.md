@@ -70,7 +70,7 @@ Here is the key that contains all of the short versions used on the graph with t
 
 Here is a bar graph representing the proportion of students who answered yes to questions in the suicide and hopelessness section of the survey. 
 
-<img src="graph_bysex.png" style="width:100%; height:auto;">
+<img src="graph_bysex.png" style="width:75%; height:auto; align:left">
 
 
 ### Race
