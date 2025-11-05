@@ -23,6 +23,28 @@ I downloaded these sheets as CSV files and imported them into R. From here, I wr
   - Filtering for race, sex, grade, and sexuality/gender identity as demographics
   - Setting demographics as factors
 
+### Sexuality and Gender Identity
+
+When I was first looking through the data, the differences among responses of LGBTQ+ students and straight students seemed significant to me. To test that, I did a chi-square tests for independence on LGBTQ+ responses to determine if there was a correlation between sexuality and question responses. 
+
+$$H_0: \text{Sexuality/Gender Identity and survey responeses are independent}$$
+$$H_A: \text{Sexuality/Gender Identity and survey responeses are dependent}$$
+
+I completed this test for every question that was asked for each year. Here is a table of my results. 
+
+| Question | Year | Chi-Square Result | P-Value | Result |
+| --- | --- | --- | --- | --- |
+| Injuring oneself intentionally without wanting to die, past year | 2021 | 190.24 | < 2.2e-16 | Reject Null Hypothesis |
+| Injuring oneself intentionally without wanting to die, past year | 2023 | 234.63 | < 2.2e-16 | Reject Null Hypothesis |
+| Feeling sad or hopeless for 2+ weeks that they stopped doing usual activities, past year | 2021 | 240.12 | < 2.2e-16 | Reject Null Hypothesis |
+| Feeling sad or hopeless for 2+ weeks that they stopped doing usual activities, past year | 2023 | 259.45 | < 2.2e-16 | Reject Null Hypothesis |
+| Seriously considering suicide, past year | 2021 | 272.97 | < 2.2e-16 | Reject Null Hypothesis |
+| Seriously considering suicide, past year | 2023 | 202.81 | < 2.2e-16 | Reject Null Hypothesis |
+
+Every test had a resulting p-value of < 2.2e-16, which is a value of $$< 0.00000000000000022$$. No matter what significant level is chosen, all six tests resulted in the null hypothesis being rejected. 
+
+This leads to the conclusion that there is a strong correlation between answering "yes" on questions about suicide/depression and being a member of the LGBTQ+ community.
+
 ## Visualization
 
 I created graphs for each demographic type (race, sex, and grade). 
@@ -64,26 +86,4 @@ Here is a bar graph representing the proportion of students who answered yes to 
 <img src="graph_lgbtyear.png" style="width:100%; height:auto;">
 
 <img src="graph_straightyea.png" style="width:100%; height:auto;">
-
-I did a chi-square test for independence on LGBTQ+ responses to determine if there was a correlation between sexuality and question responses. 
-
-$$H_0: \text{Sexuality/Gender Identity and survey responeses are independent}$$
-$$H_A: \text{Sexuality/Gender Identity and survey responeses are dependent}$$
-
-I completed this test for every question that was asked for each year. Here is a table of my results. 
-
-| Question | Year | Chi-Square Result | P-Value | Result |
-| --- | --- | --- | --- | --- |
-| Injuring oneself intentionally without wanting to die, past year | 2021 | 190.24 | < 2.2e-16 | Reject Null Hypothesis |
-| Injuring oneself intentionally without wanting to die, past year | 2023 | 234.63 | < 2.2e-16 | Reject Null Hypothesis |
-| Feeling sad or hopeless for 2+ weeks that they stopped doing usual activities, past year | 2021 | 240.12 | < 2.2e-16 | Reject Null Hypothesis |
-| Feeling sad or hopeless for 2+ weeks that they stopped doing usual activities, past year | 2023 | 259.45 | < 2.2e-16 | Reject Null Hypothesis |
-| Seriously considering suicide, past year | 2021 | 272.97 | < 2.2e-16 | Reject Null Hypothesis |
-| Seriously considering suicide, past year | 2023 | 202.81 | < 2.2e-16 | Reject Null Hypothesis |
-
-Every test had a resulting p-value of < 2.2e-16, which is a value of $$< 0.00000000000000022$$. No matter what significant level is chosen, all six tests resulted in the null hypothesis being rejected. 
-
-This leads to the conclusion that there is a strong correlation between answering "yes" on questions about suicide/depression and being a member of the LGBTQ+ community.
-
-
 
