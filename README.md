@@ -70,7 +70,7 @@ Here is the key that contains all of the short versions used on the graph with t
 
 Here is a bar graph representing the proportion of students who answered yes to questions in the suicide and hopelessness section of the survey. 
 
-<img src="graph_bysex.png" style="width:75%; height:auto; align:left"> *This graph showcases a gender gap between male and female students and how they answer questions surrounding mental health. This graph is not alone to assume correlation, but tests could be done to determine if the results are significant.*
+<img src="graph_bysex.png" style="width:50%; height:auto; align:left"> *This graph showcases a gender gap between male and female students and how they answer questions surrounding mental health. This graph is not alone to assume correlation, but tests could be done to determine if the results are significant.*
 
 
 ### Race
