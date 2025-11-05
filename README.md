@@ -74,8 +74,14 @@ I completed this test for every question that was asked for each year. Here is a
 
 | Question | Year | Chi-Square Result | P-Value | Result |
 | --- | --- | --- | --- | --- |
-| Injuring oneself intentionally without wanting to die, past year | 2023 | 190.24 | < 2.2e-16 | Reject Null Hypothesis |
+| Injuring oneself intentionally without wanting to die, past year | 2021 | 190.24 | < 2.2e-16 | Reject Null Hypothesis |
+| Injuring oneself intentionally without wanting to die, past year | 2023 | 234.63 | < 2.2e-16 | Reject Null Hypothesis |
+| Feeling sad or hopeless for 2+ weeks that they stopped doing usual activities, past year | 2021 | 240.12 | < 2.2e-16 | Reject Null Hypothesis |
+| Feeling sad or hopeless for 2+ weeks that they stopped doing usual activities, past year | 2023 | 259.45 | < 2.2e-16 | Reject Null Hypothesis |
+| Seriously considering suicide, past year | 2021 | 272.97 | < 2.2e-16 | Reject Null Hypothesis |
+| Seriously considering suicide, past year | 2023 | 202.81 | < 2.2e-16 | Reject Null Hypothesis |
 
+Every test had a resulting p-value of < 2.2e-16, which is a value of $$< 0.00000000000000022$$. 
 
 
 
