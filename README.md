@@ -47,7 +47,9 @@ This leads to the conclusion that there is a strong correlation between answerin
 
 ## Visualization
 
-I created graphs for each demographic type (race, sex, and grade). 
+I created graphs for each demographic type (race, sex, grade, and sexuality/gender identity).
+
+Through these graphs, it is easier to tell which demographic factors are most likely to affect whether or not a student answers "yes" to questions about suicide and mental health. 
 
 Here is the key that contains all of the short versions used on the graph with the full questions from the survey.
 
