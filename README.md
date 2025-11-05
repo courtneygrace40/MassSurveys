@@ -77,13 +77,13 @@ Here is a bar graph representing the proportion of students who answered yes to 
 
 <img src="graph_byrace.png" style="width:100%; height:auto;">
 
-<img src="graph_bybw.png" style="width:100%; height:auto;">
+<img src="graph_bybw.png" style="width:75%; height:auto; align:left">
 
 ### Sexuality/Gender Identity
 
-<img src="graph_bysexuality.png" style="width:100%; height:auto;">
+<img src="graph_bysexuality.png" style="width:50%; height:auto; align: left">
 
-<img src="graph_lgbtyear.png" style="width:100%; height:auto;">
+<img src="graph_lgbtyear.png" style="width:50%; height:auto;"> <img src="graph_straightyea.png" style="width:50%; height:auto;">
 
-<img src="graph_straightyea.png" style="width:100%; height:auto;">
+
 
