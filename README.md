@@ -74,6 +74,7 @@ I completed this test for every question that was asked for each year. Here is a
 
 | Question | Year | Chi-Square Result | P-Value | Result |
 | --- | --- | --- | --- | --- |
+| Injuring oneself intentionally without wanting to die, past year | 2023 | 190.24 | < 2.2e-16 | Reject Null Hypothesis |
 
 
 
