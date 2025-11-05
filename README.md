@@ -53,6 +53,6 @@ Here is a bar graph representing the proportion of students who answered yes to 
 
 ### Race
 
-<img src="graph_byallraces.png" style="width:100%; height:auto;">
+<img src="graph_byrace.png" style="width:100%; height:auto;">
 
-<img src="graph_byracebw.png" style="width:100%; height:auto;">
+<img src="graph_bybw.png" style="width:100%; height:auto;">
