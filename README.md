@@ -72,5 +72,9 @@ $$H_A: \text{Sexuality/Gender Identity and survey responeses are dependent}$$
 
 I completed this test for every question that was asked for each year. Here is a table of my results. 
 
+| Question | Year | Chi-Square Result | P-Value | Result |
+| --- | --- | --- | --- | --- |
+
+
 
 
