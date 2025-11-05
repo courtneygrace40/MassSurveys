@@ -12,15 +12,15 @@ This data was collected from schools with an in-person survey. For some of the d
 
 ## Analysis 
 
-I used data from the 2023 survey to complete this analysis, as that was the most recent survey conducted and published. I used data from the document provided with the information and created a Google Sheet. I corrected some of the headers to have no spacing errors and deleted the confidence intervals. Then, I replaced all of the ** with NA to better fit the format of dataframes in R. 
+I used data from the 2023 and 2021 surveys to complete this analysis, as they were the most recent surveys conducted and published. I used data from the document provided with the information and created a Google Sheet. I corrected some of the headers to have no spacing errors and deleted the confidence intervals. Then, I replaced all of the ** with NA to better fit the format of dataframes in R. 
 
 I downloaded these sheets as CSV files and imported them into R. From here, I wrangled the data, including: 
 
   - Renaming categories to be more readable on graphs; "CONSIDER" = "Seriously considering suicide, past year", for example
-  - Pivoting the two tables into long format
-  - Combining the two dataframes
+  - Pivoting the tables into long format
+  - Combining dataframes
   - Converting the percentage points into proportions
-  - Filtering for race, sex, and grade as demographics
+  - Filtering for race, sex, grade, and sexuality/gender identity as demographics
   - Setting demographics as factors
 
 ## Visualization
@@ -64,4 +64,13 @@ Here is a bar graph representing the proportion of students who answered yes to 
 <img src="graph_lgbtyear.png" style="width:100%; height:auto;">
 
 <img src="graph_straightyea.png" style="width:100%; height:auto;">
+
+I did a chi-square test for independence on LGBTQ+ responses to determine if there was a correlation between sexuality and question responses. 
+
+$$H_0: \text{Sexuality/Gender Identity and survey responeses are independent}$$
+$$H_A: \text{Sexuality/Gender Identity and survey responeses are dependent}$$
+
+I completed this test for every question that was asked for each year. Here is a table of my results. 
+
+
 
