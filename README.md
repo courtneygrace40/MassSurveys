@@ -66,28 +66,28 @@ Here is the key that contains all of the short versions used on the graph with t
 
 ### Grade
 
-<img src="graph_bygrade.png" style="width:100%; height:auto;">
+<img src="Graphs/graph_bygrade.png" style="width:100%; height:auto;">
 
 ### Sex
 
 Here is a bar graph representing the proportion of students who answered yes to questions in the suicide and hopelessness section of the survey. 
 
-<img src="graph_bysex.png" style="width:75%; height:auto; align:center"> 
+<img src="Graphs/graph_bysex.png" style="width:75%; height:auto; align:center"> 
 
 *This graph showcases a gender gap between male and female students and how they answer questions surrounding mental health. This graph is not alone to assume correlation, but tests could be done to determine if the results are significant.*
 
 
 ### Race
 
-<img src="graph_byrace.png" style="width:100%; height:auto;">
+<img src="Graphs/graph_byrace.png" style="width:100%; height:auto;">
 
-<img src="graph_bybw.png" style="width:75%; height:auto; align:left">
+<img src="Graphs/graph_bybw.png" style="width:75%; height:auto; align:left">
 
 ### Sexuality/Gender Identity
 
-<img src="graph_bysexuality.png" style="width:50%; height:auto; align: left">
+<img src="Graphs/graph_bysexuality.png" style="width:50%; height:auto; align: left">
 
-<img src="graph_lgbtyear.png" style="width:45%; height:auto;"> <img src="graph_straightyea.png" style="width:45%; height:auto;">
+<img src="Graphs/graph_lgbtyear.png" style="width:45%; height:auto;"> <img src="graph_straightyea.png" style="width:45%; height:auto;">
 
 
 
