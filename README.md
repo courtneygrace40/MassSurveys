@@ -25,7 +25,7 @@ I downloaded these sheets as CSV files and imported them into R. From here, I wr
 
 ### Sexuality and Gender Identity
 
-When I was first looking through the data, the differences among responses of LGBTQ+ students and straight students seemed significant to me. To test that, I did a chi-square tests for independence on LGBTQ+ responses to determine if there was a correlation between sexuality and question responses. 
+When I was first looking through the data, the differences among responses of LGBTQ+ students and straight students seemed significant to me. To test that, I did chi-square tests for independence on LGBTQ+ responses to determine if there was a correlation between sexuality and question responses. 
 
 $$H_0: \text{Sexuality/Gender Identity and survey responeses are independent}$$
 $$H_A: \text{Sexuality/Gender Identity and survey responeses are dependent}$$
