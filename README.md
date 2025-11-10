@@ -66,7 +66,11 @@ Here is the key that contains all of the short versions used on the graph with t
 
 ### Grade
 
+This is a bar graph representing the proportion of students who answered yes to questions in the suicide and hopelessness section of the survey. It groups responses by grade. 
+
 <img src="Graphs/graph_bygrade.png" style="width:100%; height:auto;">
+
+*There seems to be no correlation between grade and answers based on this graph.*
 
 ### Sex
 
@@ -76,14 +80,21 @@ Here is a bar graph representing the proportion of students who answered yes to 
 
 *This graph showcases a gender gap between male and female students and how they answer questions surrounding mental health. This graph is not alone to assume correlation, but tests could be done to determine if the results are significant.*
 
-
 ### Race
+
+These are two bar graphs representing the proportion of students who answered yes to questions in the suicide and hopelessness section of the survey.
 
 <img src="Graphs/graph_byrace.png" style="width:100%; height:auto;">
 
+*Because there are so many different groups, it is hard to see if there are any significant differences in the answers. I would also want to see how this looks for women or LGBTQ+ individuals.*
+
 <img src="Graphs/graph_bybw.png" style="width:75%; height:auto; align:left">
 
+*I decided to also focus on black and white students, and I can see that there is more of a significant difference present here. However, significance tests would need to be done.*
+
 ### Sexuality/Gender Identity
+
+These are two bar graphs representing the proportion of students who answered yes to questions in the suicide and hopelessness section of the survey. 
 
 <img src="Graphs/graph_bysexuality.png" style="width:50%; height:auto; align: left">
 
